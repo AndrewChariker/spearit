@@ -1,2 +1,0 @@
-# spearit
-Website for Spearit
